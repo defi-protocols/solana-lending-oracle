@@ -1,0 +1,196 @@
+{
+    "collections": [
+        {
+            "name": "jikan_studios",
+            "magiceden_id": "jikan",
+            "opensea_id": "jikan-studios",
+            "apis" : ["magiceden", "opensea"],
+            "oracle": "tQTnDLMEb6vTfdY638BmDQHGJuU9yxdErLjUt7TLpVp"
+        },
+        {
+            "name": "primates",
+            "magiceden_id": "primates",
+            "opensea_id": "primates-solana",
+            "apis" : ["magiceden", "opensea"],
+            "oracle": "8hUctesLkwcB4dF9NyPP2wjFr7LZnnWeebLXWvncxRQg"
+        },
+        {
+            "name": "rakuddos",
+            "magiceden_id": "rakkudos",
+            "opensea_id": "rakkudos",
+            "apis" : ["magiceden", "opensea"],
+            "oracle": "HPrF8ucCvUNwUX6VyNf6CrKtcfHj2aB7QutJgQWD6HAU"
+        },
+        {
+            "name": "sol_city_poker_club",
+            "magiceden_id": "sol_city_poker_club",
+            "apis" : ["magiceden"],
+            "oracle" : "9QvuxMiUAgiHPbYcjJdj7hbxRudD2hC8u9Tp9SV5peRA"
+        },
+        {
+            "name": "ghost_kid_dao",
+            "magiceden_id": "ghost_kid_dao",
+            "opensea_id": "ghost-kid",
+            "apis" : ["magiceden", "opensea"],
+            "oracle" : "6BMHdJ7zC8bxDPDYs9ncFNC8TFH5VBLwS8nM1ZQ2iiYu"
+        },
+        {
+            "name": "droid_capital",
+            "magiceden_id": "droid_capital",
+            "opensea_id": "droid-capital-solana",
+            "apis" : ["magiceden", "opensea"],
+            "oracle" : "4iKFssswTAd38wsEKkExDf8vp62N7FboKb66kMBnHe48"
+        },
+        {
+            "name": "defi_pirates",
+            "magiceden_id": "defi_pirates",
+            "apis" : ["magiceden"]
+        },
+        {
+            "name": "the_orcs",
+            "magiceden_id": "theorcs",
+            "opensea_id": "the-orcs",
+            "apis" : ["magiceden", "opensea"],
+            "oracle" : "D3BrbrCza5c5DvqCkg9oq46y7rVAFKZRXQKyyA2jcX4w"
+        },
+        {
+            "name": "mous_in_da_hous",
+            "magiceden_id": "midh",
+            "opensea_id": "mous-in-da-hous",
+            "apis" : ["magiceden", "opensea"]
+        },
+        {
+            "name": "tomb_stoned",
+            "magiceden_id": "tombstoned",
+            "opensea_id": "tombstoned-high-society",
+            "apis" : ["magiceden", "opensea"],
+            "oracle" : "Cud4kXLRDovy2hLDFVj58VHGLStLRw7ej6CFRdVZuVun"
+        },
+        {
+            "name": "fun_guyz",
+            "magiceden_id": "funguyz",
+            "opensea_id": "funguyz",
+            "apis" : ["magiceden", "opensea"]
+        },
+        {
+            "name": "the_stoned_frogs",
+            "magiceden_id": "the_stoned_frogs",
+            "opensea_id": "the-stoned-frogs",
+            "apis" : ["magiceden", "opensea"],
+            "oracle": "6Vg7zCzUoXCFS6pfdn5FcTaaJaqzJ537RfdCxan4MhPh"
+        },
+        {
+            "name": "cardboard_citizens",
+            "magiceden_id": "cardboard_citizens",
+            "opensea_id": "cardboard-citizens-solana",
+            "apis" : ["magiceden", "opensea"],
+            "oracle": "8jWawPJuZUXT7qcJDk1n4UN59Ny4tQ8ig6zHTPtewf3A"
+        },
+        {
+            "name": "ganja_gators",
+            "magiceden_id": "ganja_gators",
+            "opensea_id": "ganja-gators-solana",
+            "apis" : ["magiceden", "opensea"]
+        },
+        {
+            "name": "the_bridged",
+            "magiceden_id": "the_bridged",
+            "opensea_id": "the-bridged-solana",
+            "apis" : ["magiceden", "opensea"],
+            "oracle" : "D9kvLG1B12QnnqZfaL4VtrpL9DnYfYeuW4qbATu9kk2W"
+        },
+        {
+            "name": "smart_sea_society",
+            "magiceden_id": "smart_sea_society",
+            "opensea_id": "smart-sea-society",
+            "apis" : ["magiceden", "opensea"],
+            "oracle" : "FXVU7p3fSGHfh7TvXzPfKd3yhCMHu25mad8hG25n6YPY"
+        },
+        {
+            "name": "yaku_x",
+            "magiceden_id": "yaku_x",
+            "opensea_id": "yaku-x",
+            "apis" : ["magiceden", "opensea"]
+        },
+        {
+            "name": "the_lost_apes",
+            "magiceden_id": "thelostapes",
+            "opensea_id": "thelostapes",
+            "apis" : ["magiceden", "opensea"]
+        },
+        {
+            "name": "astrals",
+            "magiceden_id": "astrals",
+            "opensea_id": "astrals-solana",
+            "apis" : ["magiceden", "opensea"]
+        },
+        {
+            "name": "jikan",
+            "magiceden_id": "jikan",
+            "opensea_id": "jikan-studios",
+            "apis" : ["magiceden", "opensea"]
+        },
+        {
+            "name": "dyor_nerds",
+            "magiceden_id": "dyor_nerds",
+            "opensea_id": "dyor-nerds",
+            "apis" : ["magiceden", "opensea"]
+        },
+        {
+            "name": "fat_cats_capital",
+            "magiceden_id": "fatcats_capital",
+            "opensea_id": "fatcats-capital",
+            "apis" : ["magiceden", "opensea"],
+            "oracle": "AP3QPK1wNPWAbhs3bzgY1RhCzHVryk8JkbapRvvC7njK"
+        },
+        {
+            "name": "gothic_degens",
+            "magiceden_id": "gothic_degens",
+            "opensea_id": "gothic-degens",
+            "apis" : ["magiceden", "opensea"],
+            "oracle": "FoGLwkGXdVqWWvJfdUkWm6uC2yZdpTZqKYEWBN6cY6Kq"
+        },
+        {
+            "name": "froots",
+            "magiceden_id": "frootsnft",
+            "opensea_id": "frootsnft",
+            "apis" : ["magiceden", "opensea"],
+            "oracle": "8446jyP5eFutYt9yhDYp1yzUqkAhR8X3a767bUYWp3uz"
+        },
+        {
+            "name": "acid_monkeys",
+            "magiceden_id": "acidmonkeys",
+            "opensea_id": "acid-monkeys-solana",
+            "apis" : ["magiceden", "opensea"],
+            "oracle": "6BxgvCopWunByC4eKKs7U74bonqxGRVGa7xVXQHMgW7t"
+        },
+        {
+            "name": "justape",
+            "magiceden_id": "justape",
+            "opensea_id": "justape-solana",
+            "apis" : ["magiceden", "opensea"],
+            "oracle": "4yhMYhCjrKpMKenkWTJP5cD1VEFp7JFStHZw6rMyri5y"
+        },
+        {
+            "name": "dumbass_donkeys",
+            "magiceden_id": "dumbass_donkeys",
+            "opensea_id": "dumbassdonkeys",
+            "apis" : ["magiceden", "opensea"],
+            "oracle": "EePHEbs9mH56NJo9oRAQnwYN71xSztvsLaZsJBb46thK"
+        },
+        {
+            "name": "infected_mob",
+            "magiceden_id": "infected_mob",
+            "opensea_id": "infected-mob",
+            "apis" : ["magiceden", "opensea"],
+            "oracle": "AtcHFw7WRL2WdGmKiN7F7ES9HiGGC23JsjAbYiSbKxAT"
+        },
+        {
+            "name": "neo_hunters",
+            "magiceden_id": "neo_hunters",
+            "opensea_id": "neo-hunters",
+            "apis" : ["magiceden", "opensea"],
+            "oracle": "7WLYThXSGva7XBMPfnqzLMUo1X7vz8E8VgtdEmpaJyLz"
+        }
+    ]
+}
